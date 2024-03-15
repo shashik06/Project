@@ -1,0 +1,65 @@
+
+.input{
+    
+    padding-left: 30px;
+}
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.input-icons i{
+    position: absolute;
+}
+
+.icon{
+    padding: 10px;
+    min-width: 40px;
+}
+
+.picture{
+    margin-top: 300px;
+}
+
+.button{
+    background-color: #D2691E;
+}
+
+.newButton{
+    background-color: #D2691E;
+}
+.header{
+    background-color: #D2691E;
+    
+}
+
+
+a:link {
+    color: rgb(60, 60, 60);
+    background-color: transparent;
+    text-decoration: none;
+  }
+.bottom{
+    margin-top: 300px;
+}
+
+.drop{
+    height: 900px;
+}
+.btn-light,
+.btn-light:hover,
+.btn-light:focus,
+.btn-primary:active{
+    background-color: #D2691E !important;
+    border-color:#D2691E !important;
+    
+}
+.save{
+    margin-top: 200px;
+}
+.footer{
+    margin-top: 150px;
+}
+.register{
+    margin-top: 100px;
+}
+
